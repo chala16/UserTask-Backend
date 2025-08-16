@@ -43,7 +43,7 @@ src/main/java/com/example/demo/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/chala16/UserTaskBackend.git
+git clone https://github.com/chala16/UserTask-Backend
 cd UserTaskBackend
 ```
 
