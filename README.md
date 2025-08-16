@@ -44,7 +44,7 @@ src/main/java/com/example/demo/
 
 ```bash
 git clone https://github.com/chala16/UserTask-Backend
-cd UserTaskBackend
+cd UserTask-Backend
 ```
 
 ### 2. Configure Database
